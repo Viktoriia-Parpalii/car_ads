@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcar_ads=self.webpackChunkcar_ads||[]).push([[768],{768:(a,s,e)=>{e.r(s),e.d(s,{default:()=>r});e(60);var c=e(496);const r=()=>(0,c.jsx)("div",{children:"FavoritesPage"})}}]);
+//# sourceMappingURL=768.d4d96317.chunk.js.map

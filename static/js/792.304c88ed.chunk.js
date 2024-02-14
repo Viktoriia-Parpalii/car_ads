@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcar_ads=self.webpackChunkcar_ads||[]).push([[792],{792:(a,s,e)=>{e.r(s),e.d(s,{default:()=>d});e(60);var c=e(496);const d=()=>(0,c.jsx)("div",{children:"CatalogPage"})}}]);
+//# sourceMappingURL=792.304c88ed.chunk.js.map
